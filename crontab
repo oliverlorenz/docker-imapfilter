@@ -1,1 +1,1 @@
-* * * * * /usr/bin/execute /imapfilter.sh
+*/5 * * * * /usr/bin/execute /imapfilter.sh
