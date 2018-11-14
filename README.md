@@ -1,7 +1,7 @@
 # docker-imapfilter
 This is a docker image running the awesome [imapfilter](https://github.com/lefcha/imapfilter) as a cron in a docker container.
 
-# Motivation
+## Motivation
 
 I was searching for a solution to filter, tag, move and delete my emails independently from my server and client which is usable not only on a special provider. Its fully based on IMAP which most of the mailservers provide.
 
